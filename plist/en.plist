@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Common:common</key>
+	<dict>
+		<key>Mod Pack:pack</key>
+		<dict>
+			<key>Projekt GuP:projekt_gup</key>
+			<string>4.6.0:iawm</string>
+		</dict>
+	</dict>
+	<key>Sys Mod:sys</key>
+	<dict>
+		<key>UI:ui</key>
+		<dict>
+			<key>Donkatsu (Japanese):donkatsu</key>
+			<string>4.7.0:iawm</string>
+			<key>Indonesian (Original):indonesian_original</key>
+			<string>4.6.0:iawm</string>
+			<key>Indonesian (Historical):indonesian_historical</key>
+			<string>4.6.0:iawm</string>
+		</dict>
+		<key>Hangar:hangar</key>
+		<dict>
+			<key>Change FOV:change_fov</key>
+			<string>4.7.0:iwm</string>
+		</dict>
+		<key>Font:font</key>
+		<dict>
+			<key>Japanese&amp;English Mix:ja_en_mix</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+	</dict>
+	<key>3D Mod:3d</key>
+	<dict>
+		<key>Tank Skin:tank_skin</key>
+		<dict>
+			<key>BelTrup (Skelton Skin):beltrup</key>
+			<string>4.2.1:iawm</string>
+			<key>WhiteCrach (Skelton Skin):whitecrach</key>
+			<string>4.7.0:iawm</string>
+			<key>Anime Itasensha:itasensha</key>
+			<string></string>
+			<key>Girls und Panzer:gup</key>
+			<string></string>
+			<key>Pravda Winter:pravda_winter</key>
+			<string></string>
+			<key>Kagura Skin Set:kagura</key>
+			<string></string>
+			<key>Nekros Skin Set:nekros</key>
+			<string></string>
+			<key>Yurina Taki Skin Set:yurina_taki</key>
+			<string></string>
+			<key>KBM SkinMods &quot;TrueGermany&quot;:kbm_truegermany</key>
+			<string>4.6.0:ia</string>
+			<key>KBM SkinMods &quot;TrueGermany&quot;:kbm_truegermany_pc</key>
+			<string>4.6.0:wm</string>
+			<key>Type59/Type62 Gold Skin:type59_62_gold</key>
+			<string></string>
+			<key>Type59 Ding:type59_cauldron</key>
+			<string></string>
+			<key>Eromanga 25:eromanga25</key>
+			<string></string>
+		</dict>
+		<key>Tank Camouflage:tank_camouflage</key>
+		<dict>
+			<key>Transparent Camouflage:transparent</key>
+			<string></string>
+			<key>VH Camouflage (Red vs White):vh</key>
+			<string></string>
+			<key>WGL Camouflage (Green vs Purple):wgl_green_purple</key>
+			<string></string>
+			<key>WGL Camouflage (Red vs Green):wgl_red_green</key>
+			<string></string>
+			<key>WGL Camouflage (Red vs Purple):wgl_red_purple</key>
+			<string></string>
+			<key>WGL Camouflage (Red vs Yellow):wgl_red_yellow</key>
+			<string></string>
+			<key>WGL Camouflage (Yellow vs Green):wgl_yellow_green</key>
+			<string></string>
+			<key>WGL Camouflage (Yellow vs Purple):wgl_yellow_purple</key>
+			<string></string>
+			<key>Chinese Version Camouflage:china</key>
+			<string></string>
+			<key>Kagura Camouflage Set:kagurayuuji</key>
+			<string></string>
+		</dict>
+		<key>Hangar Skin:hangar</key>
+		<dict>
+			<key>MW Hangar Skin:mw_default</key>
+			<string>4.5.0:iawm</string>
+			<key>BM Hangar Skin:bm_default</key>
+			<string>4.5.0:iawm</string>
+			<key>HangarBB FW:hangarbb_fw</key>
+			<string>4.5.0:iawm</string>
+			<key>Victory Day:hangar_9m_with_rin</key>
+			<string>4.2.1:awm</string>
+			<key>Mayan Ruins:mayan_ruins</key>
+			<string>4.5.0:awm</string>
+			<key>Naval Frontier:skit</key>
+			<string>4.4.0:awm</string>
+			<key>Old Oasis Palms:hangar_old_savanna</key>
+			<string>4.5.0:awm</string>
+			<key>Old Lost Temple:hangar_old_asia</key>
+			<string>4.5.0:awm</string>
+			<key>Hangar True Germany:truegermany</key>
+			<string>4.5.0:ia</string>
+			<key>Hangar True Germany:truegermany_pc</key>
+			<string>4.5.0:wm</string>
+			<key>Yamato Harbour (Bow):yamato_harbour_bow</key>
+			<string>4.5.0:awm</string>
+			<key>Yamato Harbour (Turret):yamato_harbour_turret</key>
+			<string>4.5.0:awm</string>
+			<key>Yamato Harbour (Empty Harbour):empty_harbour</key>
+			<string>4.5.0:awm</string>
+			<key>Dynasty&apos;s Pearl Fountain:dynastys_pearl_fountain</key>
+			<string>4.5.0:iawm</string>
+			<key>Dynasty&apos;s Pearl Park:dynastys_pearl_park</key>
+			<string>4.5.0:iawm</string>
+			<key>Dynasty&apos;s Pearl Center:dynastys_pearl_center</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Helloween Crazy Crab:halloween_crazy_crab</key>
+			<string>4.5.0:awm</string>
+			<key>Hangar Skala:hangar_skala</key>
+			<string>4.5.0:iawm</string>
+			<key>Winter Hangar:winterhangar</key>
+			<string>4.5.0:iawm</string>
+			<key>Winter Hangar Without Soldier:winterhangar_without_soldiers</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Miku Ver2:hangarmiku_ver2</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Miku Blitz Edition:hangarmiku_blitzedition</key>
+			<string>4.5.0:iawm</string>
+		</dict>
+		<key>Exhaust Smoke:exhaust_smoke</key>
+		<dict>
+			<key>Flower(April Fool Joke):april_flower</key>
+			<string>3.7.1:iawm</string>
+			<key>IS-3D Electricity:defender_electricity</key>
+			<string></string>
+			<key>Tankenstein Fire:tanken_fire</key>
+			<string></string>
+		</dict>
+		<key>Drive Arrow:drive_arrow</key>
+		<dict>
+			<key>Transparent Rate 50%:transparent50</key>
+			<string></string>
+			<key>Transparent Rate 75%:transparent75</key>
+			<string></string>
+			<key>Transparent Rate 100%:transparent100</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Gfx Mod:gfx</key>
+	<dict>
+		<key>Reticle:reticle</key>
+		<dict>
+			<key>MW HUD:mw_hud</key>
+			<string>4.7.0:iawm</string>
+			<key>MW HUD Compact:mw_hud_compact</key>
+			<string>4.7.0:iawm</string>
+			<key>MW HUD Compact (Arrow):mw_hud_compact_arrow</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type 1:mw_circle1</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type 2:mw_circle2</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type 3:mw_circle3</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 1:mw_square1</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 1 (Sniper):mw_square1_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 2:mw_square2</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 2 (Sniper):mw_square2_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 3:mw_square3</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 3 (Sniper):mw_square3_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type Loading Gauge:circle_loading</key>
+			<string>4.7.0:iawm</string>
+			<key>AuC GunSight:auc_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>M4 GunSight:m4_gunsight</key>
+			<string>3.6.1:</string>
+			<key>M4 GunSight (No Shadow):m4_gunsight_no_shadow</key>
+			<string>3.6.1:</string>
+			<key>WGL GunSight:wgl_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>WGL GunSight v2:wgl_gunsight_v2</key>
+			<string>4.7.0:iawm</string>
+			<key>WGL GunSight Strv:wgl_gunsight_strv</key>
+			<string>4.7.0:iawm</string>
+			<key>WcB GunSight:wcb_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>CSL GunSight:csl_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>kAEdE Type 1:kaede1</key>
+			<string>3.6.1:iawm</string>
+			<key>kAEdE Type 2:kaede2</key>
+			<string>3.6.1:iawm</string>
+			<key>kAEdE Type 3:kaede3</key>
+			<string>4.0.0:iawm</string>
+			<key>Deegies Sight:deegies</key>
+			<string>4.7.0:iawm</string>
+			<key>Deegies Sight (No Shadow):deegies_no_shadow</key>
+			<string>4.7.0:iawm</string>
+			<key>Leo2A5DK Sight:l2a5dk</key>
+			<string>4.7.0:iawm</string>
+			<key>BF4 GunSight (Yellow):bf4_yellow</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (Yellow, No Shadow):bf4_yellow_no_shadow</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (Green):bf4_green</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (Green, No Shadow):bf4_green_no_shadow</key>
+			<string>3.6.1:iawm</string>
+			<key>Arpezio E401 GunSight:arpezio_e401</key>
+			<string>3.6.1:iawm</string>
+			<key>J1mB0&apos;s Crosshair For Blitz:j1mb0s</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>Minimap:minimap</key>
+		<dict>
+			<key>Visible Range (Middle Tier):visiblerange_middle</key>
+			<string>4.7.0:iawm</string>
+			<key>Visible Range (High Tier):visiblerange_high</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT VisibleRange (Middle Tier):next_visiblerange_middle</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT VisibleRange (High Tier):next_visiblerange_high</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT VisibleRange (New Equipment):next_visiblerange_ne</key>
+			<string>4.7.0:iawm</string>
+			<key>Color Minimap:color</key>
+			<string>4.7.0:iawm</string>
+			<key>Minimap Plus:plus</key>
+			<string>4.7.0:iawm</string>
+			<key>Minimap Plus Green:plus_g</key>
+			<string>4.7.0:iawm</string>
+			<key>HD Minimap:hd</key>
+			<string>4.4.0:wm</string>
+		</dict>
+		<key>Tier Icon / Vehicle Icon:icon</key>
+		<dict>
+			<key>Colored Tier Icon:color_tier</key>
+			<string></string>
+			<key>Colored and Numeric Tier Icon:color_numeric_tier</key>
+			<string></string>
+			<key>Colored and Numeric Tier Icon (Skull):color_numeric_tier_skull</key>
+			<string></string>
+			<key>Kanji Tank Icon:kanji</key>
+			<string></string>
+			<key>Ikon ver1:ikon1</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver2:ikon2</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver3:ikon3</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver4:ikon4</key>
+			<string>4.7.0:iawm</string>
+			<key>Mini3D:mini3d</key>
+			<string>4.7.0:iawm</string>
+			<key>FWBM Contour Icon:fwbm_contour_icon</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>Tracer:tracer</key>
+		<dict>
+			<key>MW Ballistic Skin:mw_default</key>
+			<string>3.6.0:iawm</string>
+		</dict>
+		<key>Sixth Sense:sixth_sense</key>
+		<dict>
+			<key>BlitzModder:blitzmodder</key>
+			<string></string>
+			<key>Evangelion:evangelion</key>
+			<string></string>
+			<key>KanColle Bismark:kancolle_bismark</key>
+			<string></string>
+			<key>Miho:miho</key>
+			<string></string>
+			<key>SAO Klein:sao_klein</key>
+			<string></string>
+			<key>Quickybaby:quickybaby</key>
+			<string></string>
+			<key>Danger Close:danger_close</key>
+			<string></string>
+			<key>Admiral Ackbar:admiral_ackbar</key>
+			<string></string>
+			<key>Sagiri (Eromanga Sensei):sgr_6s</key>
+			<string></string>
+			<key>Megumin:megumin_6s</key>
+			<string></string>
+			<key>ANUBIS:an6s</key>
+			<string></string>
+			<key>BLAME!:blame</key>
+			<string></string>
+			<key>BlueEye:blueeye</key>
+			<string></string>
+			<key>Dali:dali</key>
+			<string></string>
+			<key>GUNDAM UC:gdmuc</key>
+			<string></string>
+			<key>Magical Girl Lyrical NANOHA:lrclnh</key>
+			<string></string>
+			<key>Seele:seele</key>
+			<string></string>
+		</dict>
+		<key>Login Keyart:login_keyart</key>
+		<dict>
+			<key>Megumin:megumin</key>
+			<string></string>
+			<key>Alice &amp; Ooarai:alice_and_ooarai</key>
+			<string></string>
+			<key>All School Bed Party:all_school_bed_party</key>
+			<string></string>
+			<key>All School Leaders Pool:all_school_leaders_pool</key>
+			<string></string>
+			<key>Anzio School:anzio_school.</key>
+			<string></string>
+			<key>Ooarai Teams:ooarai_teams</key>
+			<string></string>
+			<key>Pravda School Snow:pravda_school_snow</key>
+			<string></string>
+			<key>Selection University:selection_university</key>
+			<string></string>
+			<key>St.Gloriana:st_gloriana</key>
+			<string></string>
+			<key>Sub Schools:sub_schools</key>
+			<string></string>
+			<key>Team Anko:team_anko</key>
+			<string></string>
+		</dict>
+		<key>Battle Loading Screen:battle_loading</key>
+		<dict>
+			<key>GuP Battle Loading Screen:gup</key>
+			<string></string>
+			<key>PC Battle Loading Screen:pc</key>
+			<string></string>
+			<key>TrueMaps Battle Loading Screen:truemaps</key>
+			<string></string>
+		</dict>
+		<key>Indicator:indicator</key>
+		<dict>
+			<key>MW Damage Direction:mw_damage</key>
+			<string>4.0.0:iawm</string>
+			<key>MW Enemy Direction:mw_enemy</key>
+			<string>4.5.0:iawm</string>
+			<key>DamageIM:damage_im_v2</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>UI:ui</key>
+		<dict>
+			<key>Old Type Joystick:old_joystick</key>
+			<string>4.7.0:ia</string>
+			<key>Flat UI Buttons:flat_button</key>
+			<string>4.7.0:ia</string>
+			<key>Colored Ammunition:color_ammo</key>
+			<string>4.7.0:iawm</string>
+			<key>New Colored Ammunition:new_color_ammo</key>
+			<string>4.7.0:iawm</string>
+			<key>A.P.F.S (Ping/FPS/Speedmeter):apfs</key>
+			<string>4.3.1:iawm</string>
+			<key>PC Ammo Icon:pc_ammo</key>
+			<string>4.2.1:iawm</string>
+			<key>PC Consumables Icon:pc_consumables</key>
+			<string>4.2.1:iawm</string>
+			<key>PC Ammo &amp; Consumables UI:pc_ammo_consumables_ui</key>
+			<string>4.2.1:iawm</string>
+			<key>PC Provisions Icon:pc_provisions</key>
+			<string>4.2.1:iawm</string>
+			<key>PC Optional Devices Icon:pc_optional_devices</key>
+			<string>3.7.1:iawm</string>
+			<key>PC Hangar UI:pc_hangar_ui</key>
+			<string>3.7.1:iawm</string>
+			<key>GidaAim:gida_aim</key>
+			<string>4.2.1:ia</string>
+			<key>Realistic Pedal Joypad:joypad_rp</key>
+			<string>4.7.0:ia</string>
+		</dict>
+	</dict>
+	<key>Sfx Mod:sfx</key>
+	<dict>
+		<key>Gun Sound:gun</key>
+		<dict>
+			<key>MW Gun Sound:mw_default</key>
+			<string></string>
+			<key>War Thunder Gun Sound:warthunder</key>
+			<string></string>
+			<key>Old PC Gun Sound:pc_old</key>
+			<string></string>
+			<key>New PC Gun Sound (9.16):pc_916</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Guns:real_guns</key>
+			<string></string>
+			<key>Real Cannons (LQ):realcannons</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Cannons (HQ):realcannons_hq</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Cannons (Old):realcannons_old</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Cannons (Old with Voice):realcannons_old_with_voice</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>Hit Sound:hit</key>
+		<dict>
+			<key>MW Hit Sound:mw_default</key>
+			<string></string>
+			<key>Old PC Hit Sound:pc_old</key>
+			<string></string>
+			<key>Real Hit Sound:real_hits</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>Engine Sound:engine</key>
+		<dict>
+			<key>MW Engine Sound:mw_default</key>
+			<string></string>
+		</dict>
+		<key>Sound Effect:effect</key>
+		<dict>
+			<key>MW Sound Effect:mw_default</key>
+			<string></string>
+			<key>Hangar Environmental Sound:hangar</key>
+			<string></string>
+			<key>Lightweight Environmental Sound:lightweight</key>
+			<string></string>
+			<key>Real GUI:realgui</key>
+			<string>4.7.0:iawm</string>
+			<key>GUI-Sfx Mod:gui_sfx</key>
+			<string>4.7.0:iawm</string>
+			<key>GUI-Sfx Plus:gui_sfx_plus</key>
+			<string>4.5.0:wm</string>
+		</dict>
+		<key>Voice:voice</key>
+		<dict>
+			<key>War Thunder Voice:warthunder</key>
+			<string></string>
+			<key>Battle Field 4 Voice:bf4</key>
+			<string></string>
+			<key>Foundation&amp;J Voice (ACVD):acvd</key>
+			<string></string>
+			<key>Raising Heart Voice:rh</key>
+			<string></string>
+			<key>PC Voice (Japanese):pc_ja</key>
+			<string></string>
+			<key>PC Voice (American English):pc_en</key>
+			<string></string>
+			<key>PC Voice (British English):pc_uk</key>
+			<string></string>
+			<key>PC Voice (Russian):pc_ru</key>
+			<string></string>
+			<key>PC Voice (German):pc_de</key>
+			<string></string>
+			<key>PC Voice (German Female):pc_de_female</key>
+			<string></string>
+			<key>PC Voice (Swedish):pc_swe</key>
+			<string></string>
+			<key>PC Voice (SABATON):pc_sabaton</key>
+			<string></string>
+			<key>Miho Voice:miho</key>
+			<string></string>
+			<key>Yukari Voice:yukari</key>
+			<string></string>
+			<key>Saori Voice:saori</key>
+			<string></string>
+			<key>Hana Voice:hana</key>
+			<string></string>
+			<key>Mako Voice:mako</key>
+			<string></string>
+			<key>Nonna Voice:nonna</key>
+			<string></string>
+			<key>Katyusha Voice:katyusha</key>
+			<string></string>
+			<key>Nonna and Katyusha Voice:nonna_katyusha</key>
+			<string></string>
+			<key>Maho Voice:maho</key>
+			<string></string>
+			<key>Nishi Voice:nishi</key>
+			<string></string>
+			<key>Nishi Voice (Modified):nishi_modified</key>
+			<string></string>
+			<key>Anko Team Voice:anko</key>
+			<string></string>
+			<key>Ahirusan Team Voice:ahirusan</key>
+			<string></string>
+			<key>Kabasan Team Voice:kabasan</key>
+			<string></string>
+			<key>Keizoku High School Voice:keizoku</key>
+			<string></string>
+			<key>Kancolle Voice:kancolle</key>
+			<string></string>
+			<key>Akatsuki-class Voice:akatsuki_class</key>
+			<string></string>
+			<key>Mutsuki-class Voice:mutsuki_class</key>
+			<string></string>
+			<key>Dra+KoI Voice:dra_koi</key>
+			<string></string>
+			<key>Dra+KoI Tayu made Ver Voice:dra_koi_tayu</key>
+			<string></string>
+			<key>E401 Voice:e401</key>
+			<string></string>
+			<key>Mikakunin De Sinkoukei Voice:mikakunin</key>
+			<string></string>
+			<key>Yuru Yuri Voice:yuruyuri</key>
+			<string></string>
+			<key>Tomori Nao Voice:tomori_nao</key>
+			<string></string>
+			<key>Eila-nya Voice:eila-nya</key>
+			<string></string>
+			<key>Tomotake Yoshino Voice:yoshino</key>
+			<string></string>
+			<key>Deremasu Nao Voice:deremasu_nao</key>
+			<string></string>
+			<key>Megumin Voice:megumin</key>
+			<string></string>
+			<key>Inorin Voice:inorin</key>
+			<string></string>
+			<key>Kiritan Voice:kiritan</key>
+			<string></string>
+			<key>Takao Voice:takao</key>
+			<string></string>
+			<key>Dankuroto Voice:dankuroto</key>
+			<string></string>
+			<key>Murasame Voice:murasame</key>
+			<string></string>
+			<key>Kemono Friends Voice:kemofure</key>
+			<string></string>
+			<key>Ribbon Warrior Voice:shizuka_rin</key>
+			<string></string>
+		</dict>
+		<key>Spot Timer:spot_timer</key>
+		<dict>
+			<key>MW Spot Timer:mw_default</key>
+			<string></string>
+			<key>Keizoku Spot Timer:keizoku</key>
+			<string></string>
+			<key>E401 Spot Timer:e401</key>
+			<string></string>
+			<key>Bell Angel Spot Timer:bell_angel</key>
+			<string></string>
+			<key>Inorin Spot Timer:inorin</key>
+			<string></string>
+			<key>Metal Gear Sixth Sense:metal_gear</key>
+			<string></string>
+		</dict>
+		<key>BGM:bgm</key>
+		<dict>
+			<key>MW BGM:mw_default</key>
+			<string></string>
+			<key>PC Music:pc_music</key>
+			<string>4.7.0:iawm</string>
+			<key>GuP Movie BGM:gup_movie</key>
+			<string></string>
+			<key>Blue Steel BGM:blue_steel</key>
+			<string></string>
+			<key>Sakkijarven polkka Garage BGM:sakkijarven_polkka</key>
+			<string></string>
+			<key>Sakkijarven polkka (Remix) Garage BGM:sakkijarven_polkka_remix</key>
+			<string></string>
+			<key>Projekt GuP Extra Garage Music:projekt_gup_extra</key>
+			<string></string>
+		</dict>
+		<key>Loading Completion Sound:loaded</key>
+		<dict>
+			<key>Sound Type 1:sound1</key>
+			<string></string>
+			<key>Sound Type 2:sound2</key>
+			<string></string>
+			<key>Sound Type 3:sound3</key>
+			<string></string>
+			<key>Sound Type 4:sound4</key>
+			<string></string>
+			<key>Sound Type 5:sound5</key>
+			<string></string>
+			<key>Sound Type 6:sound6</key>
+			<string></string>
+			<key>Sound Type 7:sound7</key>
+			<string></string>
+			<key>Sound Type 8:sound8</key>
+			<string></string>
+			<key>Sound Type 9:sound9</key>
+			<string></string>
+			<key>Sound Type 10:sound10</key>
+			<string></string>
+			<key>Sound and Voice (Japanese):sound_voice_ja</key>
+			<string></string>
+			<key>Sound and Voice (English):sound_voice_en</key>
+			<string></string>
+			<key>Sound and Voice (Russian):sound_voice_ru</key>
+			<string></string>
+			<key>Sound and Voice (German):sound_voice_de</key>
+			<string></string>
+			<key>Voice (Japanese):voice_ja</key>
+			<string></string>
+			<key>Voice (English):voice_en</key>
+			<string></string>
+			<key>Voice (Russian):voice_ru</key>
+			<string></string>
+			<key>Voice (German):voice_de</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>

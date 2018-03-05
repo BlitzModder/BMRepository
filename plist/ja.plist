@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>共通:common</key>
+	<dict>
+		<key>Modパック:pack</key>
+		<dict>
+			<key>Projekt GuP:projekt_gup</key>
+			<string>4.6.0:iawm</string>
+		</dict>
+	</dict>
+	<key>Sys Mod:sys</key>
+	<dict>
+		<key>UI:ui</key>
+		<dict>
+			<key>ドン勝:donkatsu</key>
+			<string>4.7.0:iawm</string>
+			<key>インドネシア語 (オリジナル):indonesian_original</key>
+			<string>4.6.0:iawm</string>
+			<key>インドネシア語 (史実):indonesian_historical</key>
+			<string>4.6.0:iawm</string>
+		</dict>
+		<key>ハンガー:hangar</key>
+		<dict>
+			<key>FOV変更:change_fov</key>
+			<string>4.7.0:iwm</string>
+		</dict>
+		<key>フォント:font</key>
+		<dict>
+			<key>日本語＆英語Mix:ja_en_mix</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+	</dict>
+	<key>3D Mod:3d</key>
+	<dict>
+		<key>戦車スキン:tank_skin</key>
+		<dict>
+			<key>白骨化スキン:beltrup</key>
+			<string>4.2.1:iawm</string>
+			<key>白骨化スキン:whitecrach</key>
+			<string>4.7.0:iawm</string>
+			<key>痛戦車スキン:itasensha</key>
+			<string></string>
+			<key>ガルパンスキン:gup</key>
+			<string></string>
+			<key>冬のプラウダスキン:pravda_winter</key>
+			<string></string>
+			<key>神楽スキンセット:kagura</key>
+			<string></string>
+			<key>ねくろすスキンセット:nekros</key>
+			<string></string>
+			<key>滝 由莉奈スキンセット:yurina_taki</key>
+			<string></string>
+			<key>KBM SkinMods &quot;TrueGermany&quot;:kbm_truegermany</key>
+			<string>4.6.0:ia</string>
+			<key>KBM SkinMods &quot;TrueGermany&quot;:kbm_truegermany_pc</key>
+			<string>4.6.0:wm</string>
+			<key>Type59/Type62 金色スキン:type59_62_gold</key>
+			<string></string>
+			<key>Type59 Ding:type59_cauldron</key>
+			<string></string>
+			<key>Eromanga 25:eromanga25</key>
+			<string></string>
+		</dict>
+		<key>戦車迷彩:tank_camouflage</key>
+		<dict>
+			<key>透明迷彩:transparent</key>
+			<string></string>
+			<key>VH迷彩 (赤 vs 白):vh</key>
+			<string></string>
+			<key>WGL迷彩 (緑 vs 紫):wgl_green_purple</key>
+			<string></string>
+			<key>WGL迷彩 (赤 vs 緑):wgl_red_green</key>
+			<string></string>
+			<key>WGL迷彩 (赤 vs 紫):wgl_red_purple</key>
+			<string></string>
+			<key>WGL迷彩 (赤 vs 黄):wgl_red_yellow</key>
+			<string></string>
+			<key>WGL迷彩 (黄 vs 緑):wgl_yellow_green</key>
+			<string></string>
+			<key>WGL迷彩 (黄 vs 紫):wgl_yellow_purple</key>
+			<string></string>
+			<key>中国版迷彩:china</key>
+			<string></string>
+			<key>神楽裕二迷彩セット:kagurayuuji</key>
+			<string></string>
+		</dict>
+		<key>ハンガースキン:hangar</key>
+		<dict>
+			<key>MW ハンガースキン:mw_default</key>
+			<string>4.5.0:iawm</string>
+			<key>BM ハンガースキン:bm_default</key>
+			<string>4.5.0:iawm</string>
+			<key>ハンガーBB FW:hangarbb_fw</key>
+			<string>4.5.0:iawm</string>
+			<key>ハンガー戦勝記念日:hangar_9m_with_rin</key>
+			<string>4.2.0:awm</string>
+			<key>ハンガーマヤ遺跡:mayan_ruins</key>
+			<string>4.5.0:awm</string>
+			<key>ハンガー沿岸要塞:skit</key>
+			<string>4.4.0:awm</string>
+			<key>ハンガー旧オアシスの椰子:hangar_old_savanna</key>
+			<string>4.5.0:awm</string>
+			<key>ハンガー旧失われた寺院:hangar_old_asia</key>
+			<string>4.5.0:awm</string>
+			<key>ハンガーTrue Germany:truegermany</key>
+			<string>4.5.0:ia</string>
+			<key>ハンガーTrue Germany:truegermany_pc</key>
+			<string>4.5.0:wm</string>
+			<key>大和港（船首）:yamato_harbour_bow</key>
+			<string>4.5.0:awm</string>
+			<key>大和港（船首）:yamato_harbour_bow_ios</key>
+			<string>4.5.0:i</string>
+			<key>大和港（砲塔）:yamato_harbour_turret</key>
+			<string>4.5.0:awm</string>
+			<key>大和港（砲塔）:yamato_harbour_turret_ios</key>
+			<string>4.5.0:i</string>
+			<key>大和港（大和なし）:empty_harbour</key>
+			<string>4.5.0:awm</string>
+			<key>大和港（大和なし）:empty_harbour_ios</key>
+			<string>4.5.0:i</string>
+			<key>Dynasty&apos;s Pearl Fountain:dynastys_pearl_fountain</key>
+			<string>4.5.0:iawm</string>
+			<key>Dynasty&apos;s Pearl Park:dynastys_pearl_park</key>
+			<string>4.5.0:iawm</string>
+			<key>Dynasty&apos;s Pearl Center:dynastys_pearl_center</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Helloween Crazy Crab:halloween_crazy_crab</key>
+			<string>4.5.0:awm</string>
+			<key>Hangar Skala:hangar_skala</key>
+			<string>4.5.0:iawm</string>
+			<key>Winter Hangar:winterhangar</key>
+			<string>4.5.0:iawm</string>
+			<key>Winter Hangar Without Soldier:winterhangar_without_soldiers</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Miku Ver2:hangarmiku_ver2</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Miku Blitz Edition:hangarmiku_blitzedition</key>
+			<string>4.5.0:iawm</string>
+		</dict>
+		<key>排気煙:exhaust_smoke</key>
+		<dict>
+			<key>花(エイプリルフールネタ):april_flower</key>
+			<string>4.2.1:ia</string>
+			<key>IS-3Dの電気:defender_electricity</key>
+			<string></string>
+			<key>Tankensteinの炎:tanken_fire</key>
+			<string></string>
+		</dict>
+		<key>進行方向矢印:drive_arrow</key>
+		<dict>
+			<key>透過度50%:transparent50</key>
+			<string></string>
+			<key>透過度75%:transparent75</key>
+			<string></string>
+			<key>透過度100%:transparent100</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Gfx Mod:gfx</key>
+	<dict>
+		<key>レティクル:reticle</key>
+		<dict>
+			<key>MW HUD:mw_hud</key>
+			<string>4.7.0:iawm</string>
+			<key>MW HUD コンパクト:mw_hud_compact</key>
+			<string>4.7.0:iawm</string>
+			<key>MW HUD コンパクト (矢印):mw_hud_compact_arrow</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 円タイプ 1:mw_circle1</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 円タイプ 2:mw_circle2</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 円タイプ 3:mw_circle3</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 正方形タイプ 1:mw_square1</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 正方形タイプ 1 (スナイパー):mw_square1_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 正方形タイプ 2:mw_square2</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 正方形タイプ 2 (スナイパー):mw_square2_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 正方形タイプ 3:mw_square3</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 正方形タイプ 3 (スナイパー):mw_square3_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 円形装填ゲージ:circle_loading</key>
+			<string>4.7.0:iawm</string>
+			<key>AuC GunSight:auc_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>M4 GunSight:m4_gunsight</key>
+			<string>3.6.1:</string>
+			<key>M4 GunSight (影なし):m4_gunsight_no_shadow</key>
+			<string>3.6.1:</string>
+			<key>WGL GunSight:wgl_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>WGL GunSight v2:wgl_gunsight_v2</key>
+			<string>4.7.0:iawm</string>
+			<key>WGL GunSight Strv:wgl_gunsight_strv</key>
+			<string>4.7.0:iawm</string>
+			<key>WcB GunSight:wcb_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>CSL GunSight:csl_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>kAEdEタイプ 1:kaede1</key>
+			<string>3.6.1:iawm</string>
+			<key>kAEdEタイプ 2:kaede2</key>
+			<string>3.6.1:iawm</string>
+			<key>kAEdEタイプ 3:kaede3</key>
+			<string>4.0.0:iawm</string>
+			<key>Deegies Sight:deegies</key>
+			<string>4.7.0:iawm</string>
+			<key>Deegies Sight (影なし):deegies_no_shadow</key>
+			<string>4.7.0:iawm</string>
+			<key>Leo2A5DK Sight:l2a5dk</key>
+			<string>4.7.0:iawm</string>
+			<key>BF4 GunSight (黄):bf4_yellow</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (黄, 影なし):bf4_yellow_no_shadow</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (緑):bf4_green</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (緑, 影なし):bf4_green_no_shadow</key>
+			<string>3.6.1:iawm</string>
+			<key>Arpezio E401 GunSight:arpezio_e401</key>
+			<string>3.6.1:iawm</string>
+			<key>J1mB0&apos;s Crosshair For Blitz:j1mb0s</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>ミニマップ:minimap</key>
+		<dict>
+			<key>MW 視界範囲円 (中Tier):visiblerange_middle</key>
+			<string>4.7.0:iawm</string>
+			<key>MW 視界範囲円 (高Tier):visiblerange_high</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT VisibleRange (中Tier):next_visiblerange_middle</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT VisibleRange (高Tier):next_visiblerange_high</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT VisibleRange (New Equipment):next_visiblerange_ne</key>
+			<string>4.7.0:iawm</string>
+			<key>カラーミニマップ:color</key>
+			<string>4.7.0:iawm</string>
+			<key>ミニマッププラス:plus</key>
+			<string>4.7.0:iawm</string>
+			<key>ミニマッププラス Green:plus_g</key>
+			<string>4.7.0:iawm</string>
+			<key>HDミニマップ:hd</key>
+			<string>4.4.0:wm</string>
+		</dict>
+		<key>Tierアイコン / 戦車アイコン:icon</key>
+		<dict>
+			<key>カラーTierアイコン:color_tier</key>
+			<string></string>
+			<key>カラー数字表記Tierアイコン:color_numeric_tier</key>
+			<string></string>
+			<key>カラー数字表記Tierアイコン(骸骨):color_numeric_tier_skull</key>
+			<string></string>
+			<key>漢字戦車アイコン:kanji</key>
+			<string></string>
+			<key>Ikon ver1:ikon1</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver2:ikon2</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver3:ikon3</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver4:ikon4</key>
+			<string>4.7.0:iawm</string>
+			<key>Mini3D:mini3d</key>
+			<string>4.7.0:iawm</string>
+			<key>FWBM Contour Icon:fwbm_contour_icon</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>トレーサー:tracer</key>
+		<dict>
+			<key>MW 弾道表示スキン:mw_default</key>
+			<string>3.6.0:iawm</string>
+		</dict>
+		<key>第六感:sixth_sense</key>
+		<dict>
+			<key>BlitzModder:blitzmodder</key>
+			<string></string>
+			<key>エヴァンゲリオン:evangelion</key>
+			<string></string>
+			<key>艦これ ビスマルク:kancolle_bismark</key>
+			<string></string>
+			<key>みほ:miho</key>
+			<string></string>
+			<key>SAO クライン:sao_klein</key>
+			<string></string>
+			<key>Quickybaby:quickybaby</key>
+			<string></string>
+			<key>Danger Close:danger_close</key>
+			<string></string>
+			<key>アクバー提督:admiral_ackbar</key>
+			<string></string>
+			<key>沙霧 (エロマンガ先生):sgr_6s</key>
+			<string></string>
+			<key>めぐみん:megumin_6s</key>
+			<string></string>
+			<key>ANUBIS:an6s</key>
+			<string></string>
+			<key>BLAME!:blame</key>
+			<string></string>
+			<key>BlueEye:blueeye</key>
+			<string></string>
+			<key>Dali:dali</key>
+			<string></string>
+			<key>GUNDAM UC:gdmuc</key>
+			<string></string>
+			<key>Magical Girl Lyrical NANOHA:lrclnh</key>
+			<string></string>
+			<key>Seele:seele</key>
+			<string></string>
+		</dict>
+		<key>ログイン画面キーアート:login_keyart</key>
+		<dict>
+			<key>めぐみん:megumin</key>
+			<string></string>
+			<key>アリス &amp; 大洗:alice_and_ooarai</key>
+			<string></string>
+			<key>全校お泊まり会:all_school_bed_party</key>
+			<string></string>
+			<key>全校のリーダーでプール:all_school_leaders_pool</key>
+			<string></string>
+			<key>アンツィオ高校:anzio_school.</key>
+			<string></string>
+			<key>大洗のチーム:ooarai_teams</key>
+			<string></string>
+			<key>プラウダ高校(雪):pravda_school_snow</key>
+			<string></string>
+			<key>大学選抜:selection_university</key>
+			<string></string>
+			<key>セントグロリアーナ:st_gloriana</key>
+			<string></string>
+			<key>その他の学校:sub_schools</key>
+			<string></string>
+			<key>アンコウチーム:team_anko</key>
+			<string></string>
+		</dict>
+		<key>戦闘読み込み画面:battle_loading</key>
+		<dict>
+			<key>ガルパン戦闘読み込み画面:gup</key>
+			<string></string>
+			<key>PC版戦闘読み込み画面:pc</key>
+			<string></string>
+			<key>拡張マップ戦闘読み込み画面:truemaps</key>
+			<string></string>
+		</dict>
+		<key>インジケータ:indicator</key>
+		<dict>
+			<key>MW 攻撃方向インジケータ:mw_damage</key>
+			<string>4.0.0:iawm</string>
+			<key>MW 敵方向インジケータ:mw_enemy</key>
+			<string>4.5.0:iawm</string>
+			<key>DamageIM:damage_im_v2</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>UI:ui</key>
+		<dict>
+			<key>旧タイプジョイスティック:old_joystick</key>
+			<string>4.7.0:ia</string>
+			<key>フラットUIボタン:flat_button</key>
+			<string>4.7.0:ia</string>
+			<key>カラー弾種アイコン:color_ammo</key>
+			<string>4.7.0:iawm</string>
+			<key>カラー弾種アイコン 新アイコン:new_color_ammo</key>
+			<string>4.7.0:iawm</string>
+			<key>A.P.F.S (Ping/FPS/Speedmeter):apfs</key>
+			<string>4.3.1:iawm</string>
+			<key>本家 弾薬アイコン:pc_ammo</key>
+			<string>4.2.1:iawm</string>
+			<key>本家 消耗品アイコン:pc_consumables</key>
+			<string>4.2.1:iawm</string>
+			<key>本家風 弾薬＆消耗品 UI:gfx.ui.pc_ammo_consumables_ui</key>
+			<string>4.4.0:iawm</string>
+			<key>本家 常備品アイコン:pc_provisions</key>
+			<string>4.2.1:iawm</string>
+			<key>本家 拡張パーツアイコン:pc_optional_devices</key>
+			<string>4.2.1:ia</string>
+			<key>本家風 ハンガーUI:pc_hangar_ui</key>
+			<string>4.2.1:ia</string>
+			<key>GidaAim:gida_aim</key>
+			<string>4.2.1:ia</string>
+			<key>鉄板ペダルジョイパッド:joypad_rp</key>
+			<string>4.7.0:ia</string>
+		</dict>
+	</dict>
+	<key>Sfx Mod:sfx</key>
+	<dict>
+		<key>砲撃音:gun</key>
+		<dict>
+			<key>MW 砲撃音:mw_default</key>
+			<string></string>
+			<key>War Thunder 砲撃音:warthunder</key>
+			<string></string>
+			<key>PC版 旧砲撃音:pc_old</key>
+			<string></string>
+			<key>PC版 新砲撃音 (9.16):pc_916</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Guns:real_guns</key>
+			<string></string>
+			<key>Real Cannons (LQ):realcannons</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Cannons (HQ):realcannons_hq</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Cannons (Old):realcannons_old</key>
+			<string>4.7.0:iawm</string>
+			<key>Real Cannons (Old with Voice):realcannons_old_with_voice</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>被弾音:hit</key>
+		<dict>
+			<key>MW 被弾音:mw_default</key>
+			<string></string>
+			<key>PC版 旧被弾音:pc_old</key>
+			<string></string>
+			<key>Real Hits:real_hits</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>エンジン音:engine</key>
+		<dict>
+			<key>MW エンジン音:mw_default</key>
+			<string></string>
+		</dict>
+		<key>効果音:effect</key>
+		<dict>
+			<key>MW 効果音:mw_default</key>
+			<string></string>
+			<key>ハンガー環境音:hangar</key>
+			<string></string>
+			<key>軽量環境音:lightweight</key>
+			<string></string>
+			<key>GUI無線ボイス:realgui</key>
+			<string>4.7.0:iawm</string>
+			<key>GUI-Sfx Mod:gui_sfx</key>
+			<string>4.7.0:iawm</string>
+			<key>GUI-Sfx Plus:gui_sfx_plus</key>
+			<string>4.5.0:wm</string>
+		</dict>
+		<key>ボイス:voice</key>
+		<dict>
+			<key>War Thunder ボイス:warthunder</key>
+			<string></string>
+			<key>Battle Field 4 ボイス:bf4</key>
+			<string></string>
+			<key>財団＆J ボイス (ACVD):acvd</key>
+			<string></string>
+			<key>レイジングハートボイス:rh</key>
+			<string></string>
+			<key>本家ボイス(日本語):pc_ja</key>
+			<string></string>
+			<key>本家ボイス(アメリカ英語):pc_en</key>
+			<string></string>
+			<key>本家ボイス(イギリス英語):pc_uk</key>
+			<string></string>
+			<key>本家ボイス(ロシア語):pc_ru</key>
+			<string></string>
+			<key>本家ボイス(ドイツ語):pc_de</key>
+			<string></string>
+			<key>本家ボイス(女性ドイツ語):pc_de_female</key>
+			<string></string>
+			<key>本家ボイス(スウェーデン語):pc_swe</key>
+			<string></string>
+			<key>本家ボイス(SABATON):pc_sabaton</key>
+			<string></string>
+			<key>みほボイス:miho</key>
+			<string></string>
+			<key>ゆかりボイス:yukari</key>
+			<string></string>
+			<key>さおりボイス:saori</key>
+			<string></string>
+			<key>はなボイス:hana</key>
+			<string></string>
+			<key>まこボイス:mako</key>
+			<string></string>
+			<key>ノンナボイス:nonna</key>
+			<string></string>
+			<key>カチューシャボイス:katyusha</key>
+			<string></string>
+			<key>ノンナ&amp;カチューシャボイス:nonna_katyusha</key>
+			<string></string>
+			<key>まほボイス:maho</key>
+			<string></string>
+			<key>西隊長ボイス:nishi</key>
+			<string></string>
+			<key>西隊長ボイス (修正版):nishi_modified</key>
+			<string></string>
+			<key>あんこうチームボイス:anko</key>
+			<string></string>
+			<key>アヒルさんチームボイス:ahirusan</key>
+			<string></string>
+			<key>カバさんチームボイス:kabasan</key>
+			<string></string>
+			<key>継続高校ボイス:keizoku</key>
+			<string></string>
+			<key>艦これボイス:kancolle</key>
+			<string></string>
+			<key>暁型ボイス:akatsuki_class</key>
+			<string></string>
+			<key>睦月型ボイス:mutsuki_class</key>
+			<string></string>
+			<key>恋するドラゴンボイス:dra_koi</key>
+			<string></string>
+			<key>恋するドラゴンTayu made Verボイス:dra_koi_tayu</key>
+			<string></string>
+			<key>イ401ボイス:e401</key>
+			<string></string>
+			<key>未確認で進行形ボイス:mikakunin</key>
+			<string></string>
+			<key>ゆるゆりボイス:yuruyuri</key>
+			<string></string>
+			<key>友利奈緒ボイス:tomori_nao</key>
+			<string></string>
+			<key>エイラーニャボイス:eila-nya</key>
+			<string></string>
+			<key>朝武芳乃ボイス:yoshino</key>
+			<string></string>
+			<key>デレマス奈緒ボイス:deremasu_nao</key>
+			<string></string>
+			<key>めぐみんボイス:megumin</key>
+			<string></string>
+			<key>いのりんボイス:inorin</key>
+			<string></string>
+			<key>東北きりたんボイス:kiritan</key>
+			<string></string>
+			<key>タカオボイス:takao</key>
+			<string></string>
+			<key>檀黎斗ボイス:dankuroto</key>
+			<string></string>
+			<key>ムラサメボイス:murasame</key>
+			<string></string>
+			<key>けものフレンズボイス:kemofure</key>
+			<string></string>
+			<key>リボンの武者ボイス:shizuka_rin</key>
+			<string></string>
+		</dict>
+		<key>スポットタイマー:spot_timer</key>
+		<dict>
+			<key>MW スポットタイマー:mw_default</key>
+			<string></string>
+			<key>継続高校スポットタイマー:keizoku</key>
+			<string></string>
+			<key>イ401スポットタイマー:e401</key>
+			<string></string>
+			<key>ベルエンジェルスポットタイマー:bell_angel</key>
+			<string></string>
+			<key>いのりんスポットタイマー:inorin</key>
+			<string></string>
+			<key>メタルギア:metal_gear</key>
+			<string></string>
+		</dict>
+		<key>BGM:bgm</key>
+		<dict>
+			<key>MW BGM:mw_default</key>
+			<string></string>
+			<key>本家BGM:pc_music</key>
+			<string>4.7.0:iawm</string>
+			<key>ガルパン映画 BGM:gup_movie</key>
+			<string></string>
+			<key>Blue Steel BGM:blue_steel</key>
+			<string></string>
+			<key>Sakkijarven polkka ガレージBGM:sakkijarven_polkka</key>
+			<string></string>
+			<key>Sakkijarven polkka (Remix) ガレージBGM:sakkijarven_polkka_remix</key>
+			<string></string>
+			<key>Projekt GuP ガレージBGM:projekt_gup_extra</key>
+			<string></string>
+		</dict>
+		<key>装填完了音:loaded</key>
+		<dict>
+			<key>音 タイプ1:sound1</key>
+			<string></string>
+			<key>音 タイプ2:sound2</key>
+			<string></string>
+			<key>音 タイプ3:sound3</key>
+			<string></string>
+			<key>音 タイプ4:sound4</key>
+			<string></string>
+			<key>音 タイプ5:sound5</key>
+			<string></string>
+			<key>音 タイプ6:sound6</key>
+			<string></string>
+			<key>音 タイプ7:sound7</key>
+			<string></string>
+			<key>音 タイプ8:sound8</key>
+			<string></string>
+			<key>音 タイプ9:sound9</key>
+			<string></string>
+			<key>音 タイプ10:sound10</key>
+			<string></string>
+			<key>音＆ボイス (日本語):sound_voice_ja</key>
+			<string></string>
+			<key>音＆ボイス (英語):sound_voice_en</key>
+			<string></string>
+			<key>音＆ボイス (ロシア語):sound_voice_ru</key>
+			<string></string>
+			<key>音＆ボイス (ドイツ語):sound_voice_de</key>
+			<string></string>
+			<key>ボイス (日本語):voice_ja</key>
+			<string></string>
+			<key>ボイス (英語):voice_en</key>
+			<string></string>
+			<key>ボイス (ロシア語):voice_ru</key>
+			<string></string>
+			<key>ボイス (ドイツ語):voice_de</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>

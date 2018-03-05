@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Common:common</key>
+	<dict>
+		<key>Mod Pack:pack</key>
+		<dict>
+			<key>Projekt GuP:projekt_gup</key>
+			<string>4.6.0:iawm</string>
+		</dict>
+	</dict>
+	<key>Sys模组:sys</key>
+	<dict>
+		<key>用户界面:ui</key>
+		<dict>
+			<key>Donkatsu (Japanese):donkatsu</key>
+			<string>4.7.0:iawm</string>
+			<key>Indonesian (Original):indonesian_original</key>
+			<string>4.6.0:iawm</string>
+			<key>Indonesian (Historical):indonesian_historical</key>
+			<string>4.6.0:iawm</string>
+		</dict>
+		<key>车库模组:hangar</key>
+		<dict>
+			<key>&quot;改变视场&quot;车库:change_fov</key>
+			<string>4.7.0:iwm</string>
+		</dict>
+		<key>Font:font</key>
+		<dict>
+			<key>Japanese&amp;English Mix:ja_en_mix</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+	</dict>
+	<key>3D模组:3d</key>
+	<dict>
+		<key>坦克涂装:tank_skin</key>
+		<dict>
+			<key>BelTrup(Skelton)涂装:beltrup</key>
+			<string>4.2.1:iawm</string>
+			<key>WhiteCrach(Skelton)涂装: whitecrach</key>
+			<string>4.7.0:iawm</string>
+			<key>痛车涂装:itasensha</key>
+			<string></string>
+			<key>少女与战车涂装:gup</key>
+			<string></string>
+			<key>真理高中涂装:pravda_winter</key>
+			<string></string>
+			<key>Kagura涂装:kagura</key>
+			<string></string>
+			<key>nekros涂装:nekros</key>
+			<string></string>
+			<key>Yurina Taki涂装:yurina_taki</key>
+			<string></string>
+			<key>KBM SkinMods &quot;TrueGermany&quot;:kbm_truegermany</key>
+			<string>4.6.0:ia</string>
+			<key>KBM SkinMods &quot;TrueGermany&quot;:kbm_truegermany_pc</key>
+			<string>4.6.0:wm</string>
+			<key>59/62式黄金涂装:type59_62_gold</key>
+			<string></string>
+			<key>Type59 Ding:type59_cauldron</key>
+			<string></string>
+			<key>埃罗曼加E25涂装:eromanga25</key>
+			<string></string>
+		</dict>
+		<key>坦克迷彩:tank_camouflage</key>
+		<dict>
+			<key>透明涂装:transparent</key>
+			<string></string>
+			<key>VH涂装(红白):vh</key>
+			<string></string>
+			<key>WGL涂装(绿紫):wgl_green_purple</key>
+			<string></string>
+			<key>WGL涂装(红绿):wgl_red_green</key>
+			<string></string>
+			<key>WGL涂装(红紫):wgl_red_purple</key>
+			<string></string>
+			<key>WGL涂装(红黄):wgl_red_yellow</key>
+			<string></string>
+			<key>WGL涂装(黄绿):wgl_yellow_green</key>
+			<string></string>
+			<key>WGL涂装(黄紫):wgl_yellow_purple</key>
+			<string></string>
+			<key>中国版涂装:china</key>
+			<string></string>
+			<key>Kagura涂装:kagurayuuji</key>
+			<string></string>
+		</dict>
+		<key>车库模组:hangar</key>
+		<dict>
+			<key>ModWorks车库:mw_default</key>
+			<string>4.5.0:iawm</string>
+			<key>BlitzModder车库:bm_default</key>
+			<string>4.5.0:iawm</string>
+			<key>BB车库:hangarbb_fw</key>
+			<string>4.5.0:iawm</string>
+			<key>胜利周年纪念:hangar_9m_with_rin</key>
+			<string>4.2.1:awm</string>
+			<key>遠古金字塔:mayan_ruins</key>
+			<string>4.5.0:awm</string>
+			<key>沿岸要塞:skit</key>
+			<string>4.4.0:awm</string>
+			<key>Old Oasis Palms:hangar_old_savanna</key>
+			<string>4.5.0:awm</string>
+			<key>Old Lost Temple:hangar_old_asia</key>
+			<string>4.5.0:awm</string>
+			<key>Hangar True Germany:truegermany</key>
+			<string>4.5.0:ia</string>
+			<key>Hangar True Germany:truegermany_pc</key>
+			<string>4.5.0:wm</string>
+			<key>Yamato Harbour (Bow):yamato_harbour_bow</key>
+			<string>4.5.0:awm</string>
+			<key>Yamato Harbour (Turret):yamato_harbour_turret</key>
+			<string>4.5.0:awm</string>
+			<key>Yamato Harbour (Empty Harbour):empty_harbour</key>
+			<string>4.5.0:awm</string>
+			<key>Dynasty&apos;s Pearl Fountain:dynastys_pearl_fountain</key>
+			<string>4.5.0:iawm</string>
+			<key>Dynasty&apos;s Pearl Park:dynastys_pearl_park</key>
+			<string>4.5.0:iawm</string>
+			<key>Dynasty&apos;s Pearl Center:dynastys_pearl_center</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Helloween Crazy Crab:halloween_crazy_crab</key>
+			<string>4.5.0:awm</string>
+			<key>Hangar Skala:hangar_skala</key>
+			<string>4.5.0:iawm</string>
+			<key>Winter Hangar:winterhangar</key>
+			<string>4.5.0:iawm</string>
+			<key>Winter Hangar Without Soldier:winterhangar_without_soldiers</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Miku Ver2:hangarmiku_ver2</key>
+			<string>4.5.0:iawm</string>
+			<key>Hangar Miku Blitz Edition:hangarmiku_blitzedition</key>
+			<string>4.5.0:iawm</string>
+		</dict>
+		<key>坦克尾气:exhaust_smoke</key>
+		<dict>
+			<key>愚人节花朵尾气:april_flower</key>
+			<string>3.7.1:iawm</string>
+			<key>IS-3D电光:defender_electricity</key>
+			<string></string>
+			<key>科学怪车火焰尾气:tanken_fire</key>
+			<string></string>
+		</dict>
+		<key>方向指示器:drive_arrow</key>
+		<dict>
+			<key>透明率50%:transparent50</key>
+			<string></string>
+			<key>透明率75%:transparent75</key>
+			<string></string>
+			<key>透明率100%:transparent100</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Gfx模组:gfx</key>
+	<dict>
+		<key>准星模组:reticle</key>
+		<dict>
+			<key>MW HUD:mw_hud</key>
+			<string>4.7.0:iawm</string>
+			<key>MW HUD Compact:mw_hud_compact</key>
+			<string>4.7.0:iawm</string>
+			<key>MW HUD Compact (Arrow):mw_hud_compact_arrow</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type 1:mw_circle1</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type 2:mw_circle2</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type 3:mw_circle3</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 1:mw_square1</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 1 (Sniper):mw_square1_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 2:mw_square2</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 2 (Sniper):mw_square2_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 3:mw_square3</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Square Type 3 (Sniper):mw_square3_sniper</key>
+			<string>4.7.0:iawm</string>
+			<key>MW Circle Type Loading Gauge:circle_loading</key>
+			<string>4.7.0:iawm</string>
+			<key>AuC GunSight:auc_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>M4 GunSight:m4_gunsight</key>
+			<string>3.6.1</string>
+			<key>M4 GunSight (No Shadow):m4_gunsight_no_shadow</key>
+			<string>3.6.1</string>
+			<key>WGL GunSight:wgl_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>WGL GunSight v2:wgl_gunsight_v2</key>
+			<string>4.7.0:iawm</string>
+			<key>WGL GunSight Strv:wgl_gunsight_strv</key>
+			<string>4.7.0:iawm</string>
+			<key>WcB GunSight:wcb_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>CSL GunSight:csl_gunsight</key>
+			<string>4.7.0:iawm</string>
+			<key>kAEdE Type 1:kaede1</key>
+			<string>3.6.1:iawm</string>
+			<key>kAEdE Type 2:kaede2</key>
+			<string>3.6.1:iawm</string>
+			<key>kAEdE Type 3:kaede3</key>
+			<string>4.0.0:iawm</string>
+			<key>Deegies Sight:deegies</key>
+			<string>4.7.0:iawm</string>
+			<key>Deegies Sight (No Shadow):deegies_no_shadow</key>
+			<string>4.7.0:iawm</string>
+			<key>豹2A5瞄准镜:l2a5dk</key>
+			<string>4.7.0:iawm</string>
+			<key>BF4 GunSight (Yellow):bf4_yellow</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (Yellow, No Shadow):bf4_yellow_no_shadow</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (Green):bf4_green</key>
+			<string>3.6.1:iawm</string>
+			<key>BF4 GunSight (Green, No Shadow):bf4_green_no_shadow</key>
+			<string>3.6.1:iawm</string>
+			<key>Arpezio E401 GunSight:arpezio_e401</key>
+			<string>3.6.1:iawm</string>
+			<key>J1mB0&apos;s Crosshair For Blitz:j1mb0s</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>小地图:minimap</key>
+		<dict>
+			<key>可视范围(中级):visiblerange_middle</key>
+			<string>4.7.0:iawm</string>
+			<key>可视范围(较高):visiblerange_high</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT可视范围(中级):next_visiblerange_middle</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT可视范围(较高):next_visiblerange_high</key>
+			<string>4.7.0:iawm</string>
+			<key>NeXT 可视范围 (New Equipment):next_visiblerange_ne</key>
+			<string>4.7.0:iawm</string>
+			<key>彩色小地图:color</key>
+			<string>4.7.0:iawm</string>
+			<key>迷你地图加:plus</key>
+			<string>4.7.0:iawm</string>
+			<key>迷你地图加绿色:plus_g</key>
+			<string>4.7.0:iawm</string>
+			<key>放大版小地图:hd</key>
+			<string>4.4.0:wm</string>
+		</dict>
+		<key>坦克等级图标 / 车辆图标:icon</key>
+		<dict>
+			<key>彩色等级图标:color_tier</key>
+			<string></string>
+			<key>彩色数字等级图标:color_numeric_tier</key>
+			<string></string>
+			<key>彩色数字等级图标(Skull):color_numeric_tier_skull</key>
+			<string></string>
+			<key>日本汉字图标:kanji</key>
+			<string></string>
+			<key>Ikon ver1:ikon1</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver2:ikon2</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver3:ikon3</key>
+			<string>4.7.0:iawm</string>
+			<key>Ikon ver4:ikon4</key>
+			<string>4.7.0:iawm</string>
+			<key>迷你3D:mini3d</key>
+			<string>4.7.0:iawm</string>
+			<key>FWBM Contour Icon:fwbm_contour_icon</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>Tracer:tracer</key>
+		<dict>
+			<key>MW Ballistic Skin:mw_default</key>
+			<string>3.6.0:iawm</string>
+		</dict>
+		<key>点亮灯泡:sixth_sense</key>
+		<dict>
+			<key>BlitzModder标志灯泡:blitzmodder</key>
+			<string></string>
+			<key>新世纪福音战士灯泡:evangelion</key>
+			<string></string>
+			<key>舰队收藏俾斯麦灯泡:kancolle_bismark</key>
+			<string></string>
+			<key>军神灯泡:miho</key>
+			<string></string>
+			<key>圣克莱灯泡:sao_klein</key>
+			<string></string>
+			<key>Quickybaby灯泡:quickybaby</key>
+			<string></string>
+			<key>危险接近灯泡:danger_close</key>
+			<string></string>
+			<key>阿克巴上将:admiral_ackbar</key>
+			<string></string>
+			<key>Sagiri (Eromanga Sensei):sgr_6s</key>
+			<string></string>
+			<key>Megumin:megumin_6s</key>
+			<string></string>
+			<key>ANUBIS:an6s</key>
+			<string></string>
+			<key>BLAME!:blame</key>
+			<string></string>
+			<key>BlueEye:blueeye</key>
+			<string></string>
+			<key>Dali:dali</key>
+			<string></string>
+			<key>GUNDAM UC:gdmuc</key>
+			<string></string>
+			<key>Magical Girl Lyrical NANOHA:lrclnh</key>
+			<string></string>
+			<key>Seele:seele</key>
+			<string></string>
+		</dict>
+		<key>游戏进入背景:login_keyart</key>
+		<dict>
+			<key>Megumin:megumin</key>
+			<string></string>
+			<key>Alice &amp; Ooarai:alice_and_ooarai</key>
+			<string></string>
+			<key>All School Bed Party:all_school_bed_party</key>
+			<string></string>
+			<key>All School Leaders Pool:all_school_leaders_pool</key>
+			<string></string>
+			<key>Anzio School:anzio_school.</key>
+			<string></string>
+			<key>Ooarai Teams:ooarai_teams</key>
+			<string></string>
+			<key>Pravda School Snow:pravda_school_snow</key>
+			<string></string>
+			<key>Selection University:selection_university</key>
+			<string></string>
+			<key>St.Gloriana:st_gloriana</key>
+			<string></string>
+			<key>Sub Schools:sub_schools</key>
+			<string></string>
+			<key>Team Anko:team_anko</key>
+			<string></string>
+		</dict>
+		<key>战斗加载背景:battle_loading</key>
+		<dict>
+			<key>少女与战车加载背景:gup</key>
+			<string></string>
+			<key>WoT加载背景:pc</key>
+			<string></string>
+			<key>TrueMaps加载背景:truemaps</key>
+			<string></string>
+		</dict>
+		<key>位置指示器:indicator</key>
+		<dict>
+			<key>MW伤害方向:mw_damage</key>
+			<string>4.0.0:iawm</string>
+			<key>MW敌人方向:mw_enemy</key>
+			<string>4.5.0:iawm</string>
+			<key>伤害IM:damage_im_v2</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>用户界面:ui</key>
+		<dict>
+			<key>老版本操纵杆:old_joystick</key>
+			<string>4.7.0:ia</string>
+			<key>扁平化界面按钮:flat_button</key>
+			<string>4.7.0:ia</string>
+			<key>彩色弹药:color_ammo</key>
+			<string>4.7.0:iawm</string>
+			<key>新彩色弹药:new_color_ammo</key>
+			<string>4.7.0:iawm</string>
+			<key>A.P.F.S (Ping/FPS/Speedmeter):apfs</key>
+			<string>4.3.1:iawm</string>
+			<key>WoT炮弹图标:pc_ammo</key>
+			<string>4.2.1:iawm</string>
+			<key>WoT消耗品图标:pc_consumables</key>
+			<string>4.2.1:iawm</string>
+			<key>WoT炮弹及补给品图标:pc_ammo_consumables_ui</key>
+			<string>4.2.1:iawm</string>
+			<key>WoT补给品图标:pc_provisions</key>
+			<string>4.2.1:iawm</string>
+			<key>WoT装备图标:pc_optional_devices</key>
+			<string>3.7.1:iawm</string>
+			<key>WoT车库界面:pc_hangar_ui</key>
+			<string>3.7.1:iawm</string>
+			<key>GidaAim:gida_aim</key>
+			<string>4.2.1:ia</string>
+			<key>真实摇杆:joypad_rp</key>
+			<string>4.7.0:ia</string>
+		</dict>
+	</dict>
+	<key>Sfx模组:sfx</key>
+	<dict>
+		<key>炮声模组:gun</key>
+		<dict>
+			<key>MW炮声:mw_default</key>
+			<string></string>
+			<key>战争雷霆炮声:warthunder</key>
+			<string></string>
+			<key>旧式WoT炮声:pc_old</key>
+			<string></string>
+			<key>9.16版WoT炮声:pc_916</key>
+			<string>4.7.0:iawm</string>
+			<key>真实枪:real_guns</key>
+			<string></string>
+			<key>真实炮声（底清）:realcannons</key>
+			<string>4.7.0:iawm</string>
+			<key>真实炮声（高清）:realcannons_hq</key>
+			<string>4.7.0:iawm</string>
+			<key>真实炮声（Old ）:realcannons_old</key>
+			<string>4.7.0:iawm</string>
+			<key>真实炮声（Old with Voice）:realcannons_old_with_voice</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>撞击音效:hit</key>
+		<dict>
+			<key>MW撞击声:mw_default</key>
+			<string></string>
+			<key>旧式WoT撞击声:pc_old</key>
+			<string></string>
+			<key>真实撞击声:real_hits</key>
+			<string>4.7.0:iawm</string>
+		</dict>
+		<key>引擎音效:engine</key>
+		<dict>
+			<key>MW引擎音:mw_default</key>
+			<string></string>
+		</dict>
+		<key>音效模组:effect</key>
+		<dict>
+			<key>MW音效:mw_default</key>
+			<string></string>
+			<key>车库环境音效:hangar</key>
+			<string></string>
+			<key>轻型环境音效:lightweight</key>
+			<string></string>
+			<key>真实图形用户界面:realgui</key>
+			<string>4.5.0:iawm</string>
+			<key>GUI-Sfx Mod:gui_sfx</key>
+			<string>4.5.0:iawm</string>
+			<key>GUI-Sfx Plus:gui_sfx_plus</key>
+			<string>4.5.0:wm</string>
+		</dict>
+		<key>车长语音:voice</key>
+		<dict>
+			<key>战争雷霆语音:warthunder</key>
+			<string></string>
+			<key>战地4语音:bf4</key>
+			<string></string>
+			<key>装甲核心语音:acvd</key>
+			<string></string>
+			<key>Raising Heart Voice:rh</key>
+			<string></string>
+			<key>WoT日本语音:pc_ja</key>
+			<string></string>
+			<key>WoT美国语音:pc_en</key>
+			<string></string>
+			<key>WoT英国语音:pc_uk</key>
+			<string></string>
+			<key>WoT苏联语音:pc_ru</key>
+			<string></string>
+			<key>WoT德国语音:pc_de</key>
+			<string></string>
+			<key>WoT德国女性语音:pc_de_female</key>
+			<string></string>
+			<key>WoT瑞典语音:pc_swe</key>
+			<string></string>
+			<key>WoTSABATON语音:pc_sabaton</key>
+			<string></string>
+			<key>西住美穗语音:miho</key>
+			<string></string>
+			<key>秋山优花里语音:yukari</key>
+			<string></string>
+			<key>武部沙织语音:saori</key>
+			<string></string>
+			<key>五十铃华语音:hana</key>
+			<string></string>
+			<key>麻子语音:mako</key>
+			<string></string>
+			<key>农娜政委语音:nonna</key>
+			<string></string>
+			<key>喀秋莎语音:katyusha</key>
+			<string></string>
+			<key>农娜政委和喀秋莎语音:nonna_katyusha</key>
+			<string></string>
+			<key>西住真穗语音:maho</key>
+			<string></string>
+			<key>知波单语音:nishi</key>
+			<string></string>
+			<key>知波单语音(改良):nishi_modified</key>
+			<string></string>
+			<key>鮟鱇鱼队语音:anko</key>
+			<string></string>
+			<key>家鸭队语音:ahirusan</key>
+			<string></string>
+			<key>河马队语音:kabasan</key>
+			<string></string>
+			<key>继续高中语音:keizoku</key>
+			<string></string>
+			<key>舰队收藏语音:kancolle</key>
+			<string></string>
+			<key>晓 语音:akatsuki_class</key>
+			<string></string>
+			<key>睦月语音:mutsuki_class</key>
+			<string></string>
+			<key>竜＋恋语音:dra_koi</key>
+			<string></string>
+			<key>竜＋恋Tayu made Ver语音:dra_koi_tayu</key>
+			<string></string>
+			<key>E401苍蓝钢铁琵琶音语音:e401</key>
+			<string></string>
+			<key>未确认进行式语音:mikakunin</key>
+			<string></string>
+			<key>摇曳百合语音:yuruyuri</key>
+			<string></string>
+			<key>友利奈绪语音:tomori_nao</key>
+			<string></string>
+			<key>艾拉语音:eila-nya</key>
+			<string></string>
+			<key>朝武芳乃语音:yoshino</key>
+			<string></string>
+			<key>Deremasu Nao语音:deremasu_nao</key>
+			<string></string>
+			<key>惠惠车长语音:megumin</key>
+			<string></string>
+			<key>Inorin车长语音:inorin</key>
+			<string></string>
+			<key>Kiritan车长语音:kiritan</key>
+			<string></string>
+			<key>Takao车长语音:takao</key>
+			<string></string>
+			<key>Dankuroto车长语音:dankuroto</key>
+			<string></string>
+			<key>Murasame车长语音:murasame</key>
+			<string></string>
+			<key>Kemono Friends车长语音:kemofure</key>
+			<string></string>
+			<key>Ribbon Warrior车长语音:shizuka_rin</key>
+			<string></string>
+		</dict>
+		<key>点灯音效:spot_timer</key>
+		<dict>
+			<key>MW点灯音效:mw_default</key>
+			<string></string>
+			<key>Keizoku点灯音效:keizoku</key>
+			<string></string>
+			<key>E401点灯音效:e401</key>
+			<string></string>
+			<key>铃铛天使点灯音效:bell_angel</key>
+			<string></string>
+			<key>Inorin点灯音效:inorin</key>
+			<string></string>
+			<key>金属齿轮第六感:metal_gear</key>
+			<string></string>
+		</dict>
+		<key>背景音乐:bgm</key>
+		<dict>
+			<key>MW背景音乐:mw_default</key>
+			<string></string>
+			<key>WoT背景音乐:pc_music</key>
+			<string>4.7.0:iawm</string>
+			<key>少女与战车剧场版音乐:gup_movie</key>
+			<string></string>
+			<key>苍蓝钢铁背景音乐:blue_steel</key>
+			<string></string>
+			<key>芬兰琴魔车库音乐:sakkijarven_polkka</key>
+			<string></string>
+			<key>芬兰琴魔车库音乐（重制）:sakkijarven_polkka_remix</key>
+			<string></string>
+			<key>少女与战车车库音乐:projekt_gup_extra</key>
+			<string></string>
+		</dict>
+		<key>装填音效:loaded</key>
+		<dict>
+			<key>音效1:sound1</key>
+			<string></string>
+			<key>音效2:sound2</key>
+			<string></string>
+			<key>音效3:sound3</key>
+			<string></string>
+			<key>音效4:sound4</key>
+			<string></string>
+			<key>音效5:sound5</key>
+			<string></string>
+			<key>音效6:sound6</key>
+			<string></string>
+			<key>音效7:sound7</key>
+			<string></string>
+			<key>音效8:sound8</key>
+			<string></string>
+			<key>音效9:sound9</key>
+			<string></string>
+			<key>音效10:sound10</key>
+			<string></string>
+			<key>日语装填报告及音效:sound_voice_ja</key>
+			<string></string>
+			<key>英语装填报告及音效:sound_voice_en</key>
+			<string></string>
+			<key>俄语装填报告及音效:sound_voice_ru</key>
+			<string></string>
+			<key>德语装填报告及音效:sound_voice_de</key>
+			<string></string>
+			<key>日语装填报告:voice_ja</key>
+			<string></string>
+			<key>英语装填报告:voice_en</key>
+			<string></string>
+			<key>俄语装填报告:voice_ru</key>
+			<string></string>
+			<key>德语装填报告:voice_de</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>

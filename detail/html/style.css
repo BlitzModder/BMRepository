@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+h3 {
+    margin: 0 0 1.5em;
+    padding: 0.8em;
+    font-size: 1.143em;
+    font-weight: bold;
+    border-top: 1px dashed #aaa;
+    border-bottom: 1px dashed #aaa;
+    background: #eee;
+    text-shadow: 1px 1px 0 rgba(255,255,255,1);
+    box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -moz-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -webkit-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -o-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -ms-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+}
+
+body {
+	font-family : "HiraKakuProN-W3", "\30D2\30E9\30AE\30CE\89D2\30B4 ProN W3",  Meiryo, "\30E1\30A4\30EA\30AA", sans-serif;
+	font-size: small;
+}
+
+ul {
+    list-style: disc;
+    margin: 0 0 2px -1em;
+}
+
+li {
+    margin: 0 0 4px 0em;
+    line-height: 120%;
+}
+
+p.resizeimage img { width: 95%; }

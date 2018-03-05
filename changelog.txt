@@ -1,0 +1,23 @@
+[2.0]
+- Fixed purple after removing mods
+
+[1.3]
+- Add CSL GunSight
+- Add No Notification
+- Add Sagiri Sixth Sense
+- Add Megumin Login Keyart
+- Add Megumin Voice
+- Add Deremasu Nao Voice
+- Fix Tank Skin Bug (!!)
+
+[1.2]
+- Compressed all voice mods
+- Add support for 3.7.x to many mods
+- Add No Tips Mod
+- Add No April Fool Effect Mod
+- Add LTTB Skin to Kagura Skin Set
+- Add HangarBB FW Mod
+
+[1.1]
+- Converted all voice mods to universal!
+  You can use them in every language.
